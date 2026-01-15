@@ -1,6 +1,5 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        int s=0;
         int s5=0;
         int s10=0;
         int s20=0;
